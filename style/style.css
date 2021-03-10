@@ -1,0 +1,20 @@
+div img {
+	width: 10%;
+	height: 10%;
+	
+	transition: transform 3s 0.5s;
+	
+}
+
+p, form input {
+	font-size: 20px;
+}
+
+.disableLink {
+	pointer-events: none;
+	opacity: 0.2;
+}
+
+.animation{
+	transform: rotateY(380deg); 
+}
